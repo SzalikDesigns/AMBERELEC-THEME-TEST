@@ -3,4 +3,4 @@ This files "fake" existing games for "all" systems and make them pop up, perfect
 
 just use 8gb or some small microSD card and you will have "all systems" displayed
 
-#currently FBN collection and genres won't be displayed its todo
+## currently FBN collection and genres won't be displayed its todo
