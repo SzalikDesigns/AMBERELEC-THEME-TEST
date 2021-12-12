@@ -1,4 +1,5 @@
-# 351-ELEC-THEME-TEST
+# 351ELEC Theme Tester Helper
+-------------------
 This files "fake" existing games for "all" systems and make them pop up, perfect for testing and building themes
 
 just use 8gb or some small microSD card and you will have "all systems" displayed
